@@ -25384,7 +25384,7 @@ $iu:1}
 P.EJ.prototype={}
 P.EK.prototype={}
 F.xO.prototype={
-L:function(a){return new S.pz(new F.pP(null),"Flutter Demo",X.a_V(null,C.lU),!1,null)}}
+L:function(a){return new S.pz(new F.pP(null),"Shabdkosh",X.a_V(null,C.lU),!1,null)}}
 F.pP.prototype={
 aG:function(){return new F.Do(new D.ms(C.mY,new R.ap(H.c([],u.u),u.A)),C.q)}}
 F.Do.prototype={
